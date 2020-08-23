@@ -1,0 +1,10 @@
+name: FakePlayers
+version: ${project.version}
+main: com.brxnxx.fakeplayers.FakePlayers
+depend: [ProtocolLib]
+api-version: 1.13
+authors: [aabrx]
+description: A simple fake players plugin
+website: breno.wtf
+commands:
+  spawnfake:
